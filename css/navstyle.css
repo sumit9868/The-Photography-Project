@@ -1,0 +1,9 @@
+
+  body {
+    background: #007bff;
+    background: linear-gradient(to right, rgba(0, 100, 230, 0.644), rgba(51, 173, 255, 0.432));
+  }a:hover{
+    color: black;
+}.dropdown-item{
+    font-size: 15px;
+    }

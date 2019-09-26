@@ -1,0 +1,16 @@
+.container .row{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: -100px;
+    margin-right: -100px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+li .card{
+    display: inline;
+}
+.card img{
+    height: 200px;
+    width: 200px;
+    
+}
